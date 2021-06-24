@@ -1,1 +1,3 @@
-# projects_python
+# Projects Python 🦑
+
+Found them in CodeWars and Programiz
