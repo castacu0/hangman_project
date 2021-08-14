@@ -1,0 +1,24 @@
+Logré el reto, este es el enlace al repositorio con los archivos del mismo Repositorio.
+Para el que empieza perdido en el juego les comparto el camino que seguí para desarrollarlo, aunque las sugerencias al código son muy bien recibidas, se que tiene mucho por mejorar. Estos son los pasos:
+
+-Leer el archivo con las palabras. (También vi que algunos lo creaban en el caso que el archivo no estuviera, me pareció buena función y lo agregue).
+
+-Escoger una palabra del archivo aleatoriamente.
+
+-Recibir una letra de parte del jugador.
+
+-Crear un string o lista con el caracter “_” debe ser del tamaño de la palabra escogida.
+
+-Las tildes generan problemas, se deben traducir en letras sin tildes.
+
+-Encontrar las veces que la letra se encuentra en la palabra y en que posición están.
+
+-Ubicar la letra en la posición correspondiente dentro del espacio con las rayas al piso.
+
+-Reescribir cada vez que el usuario adivina una letra.
+
+-Validar si ya encontró la palabra completa.
+
+-Crear el sistema de puntos.
+
+-Crear el banner con código ASCII, hay varias paginas para hacerlo fácilmente (solo hay que tener en cuenta que algunos caracteres se ven en windows y en linux no)

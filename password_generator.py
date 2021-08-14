@@ -24,7 +24,7 @@ def password_generator():
         break
 
 def run():
-    caller = password_generator()
+    password_gen = password_generator()
 
 
 if __name__ == '__main__':
