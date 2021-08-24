@@ -1,0 +1,5 @@
+Modules for this project already installed on Python 3.8
+
+Inside hangman package:
+  hangman_images.py 
+  hangman_words.py
